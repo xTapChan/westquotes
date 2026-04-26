@@ -1,5 +1,5 @@
 # WestQuotes
-[English Version](#english-version) | [Wersja Polska](#wersja-polska)
+[English Version](#🇺🇸) | [Wersja Polska](#🇵🇱)
 
 ---
 
