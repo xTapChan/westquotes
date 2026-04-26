@@ -23,7 +23,7 @@ If you would like to support this project, please contact me via email for donat
 WestQuotes is an **unofficial, fan-made project**. This application and its developer are not affiliated with, associated with, authorized, endorsed by, or in any way officially connected to Kanye West, his management, or any of his associated record labels. All quotes, lyrics, and related intellectual property remain the sole property of their respective copyright holders. Short excerpts are used herein under the principles of **Fair Use** for entertainment and informational purposes only. Optional donations go solely toward supporting the independent developer's time and infrastructure costs, not toward the sale of copyrighted material.
 
 ---
-# [Pobierz tutaj](https://tapch4n.github.io/westquotes/)
+
 # 🇵🇱
 
 WestQuotes to aplikacja na Androida z codziennymi cytatami Kanyego Westa.
