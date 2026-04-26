@@ -1,7 +1,4 @@
 # WestQuotes
-[English Version](#🇺🇸) | [Wersja Polska](#🇵🇱)
-
----
 
 ## 🇺🇸
 
