@@ -1,4 +1,4 @@
-# [WestQuotes](https://tapch4n.github.io/westquotes/)
+# [WestQuotes](https://xtapchan.github.io/westquotes/)
 
 # 🇺🇸
 
